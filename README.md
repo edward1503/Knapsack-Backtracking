@@ -6,3 +6,5 @@ To use the code with UI/UX, please download .py files and install PyQt6 on your 
 pip install PyQt6-WebEngine
 
 pip install PyQt6
+
+Author: Do Nhat Phuong
