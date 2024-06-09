@@ -7,6 +7,8 @@ pip install PyQt6-WebEngine
 
 pip install PyQt6
 
-Author: Do Nhat Phuong, Nguyen Don Duc, Nguyen Huu Thanh, Duong Gia Bao
+pip install plotly
+
+Authors: Do Nhat Phuong, Nguyen Don Duc, Nguyen Huu Thanh, Duong Gia Bao
 
 Instructor: PhD. Dang Ngoc Hoang Thanh
